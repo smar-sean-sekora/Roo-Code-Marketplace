@@ -3,7 +3,7 @@ description: "An experienced software Project Manager who excels at amplifying p
 type: "package"
 version: "0.0.3"
 sourceUrl: "https://github.com/smartsheet-platform/config-packs"
-binaryUrl: "https://github.com/smartsheet-platform/config-packs/raw/5a8259b/binary/smartsheet-mcp.zip"
-binaryHash: "w-jTZy0UG8lvZQ0Y2urzORmhqHt0qVqUBLczzKF8vbs"
+binaryUrl: "https://github.com/smartsheet-platform/config-packs/raw/0977d07/binary/smartsheet-mcp.zip"
+binaryHash: "o_1nJAk6pqBqnbOqzKZ69JytcqO2U_ahLb1ithA8cQE"
 tags: ["project management", "agile", "work managemnt", "tasks", "team", "spreadsheet", "kanban"]
 author: "Smartsheet"
